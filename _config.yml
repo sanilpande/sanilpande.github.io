@@ -21,4 +21,4 @@ google-analytics:
 
 exclude: ['package.json', 'src' , 'node_modules']
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
